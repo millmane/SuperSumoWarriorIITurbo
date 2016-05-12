@@ -1,12 +1,39 @@
-#background-canvas {
+// #background-canvas {
+//   z-index: 1;
+//   position: absolute;
+//   top: 300;
+//   left: 300
+// }
+//
+// #game-canvas {
+//   position: absolute;
+//   top: 300;
+//   left: 300
+// }
+
+.soundStart {
+  display: block;
+  position: relative;
   z-index: 1;
-  position: absolute;
-  top: 300;
-  left: 300
+  top: -490;
+  left: -15;
 }
 
-#game-canvas {
-  position: absolute;
-  top: 300;
-  left: 300
+.soundEnd {
+  // display: flex;
+  position: relative;
+  z-index: 1;
+  top: -425;
+  left: -55;
+}
+.soundGame {
+  // display: flex;
+  position: relative;
+  z-index: 1;
+  top: -650;
+  left: -525;
+}
+
+.soundSumo {
+  display: none;
 }
