@@ -20,18 +20,18 @@
 }
 
 .soundEnd {
-  // display: flex;
+  display: block;
   position: relative;
   z-index: 1;
   top: -425;
   left: -55;
 }
 .soundGame {
-  // display: flex;
-  position: relative;
+  display: block;
+  position: absolute;
   z-index: 1;
-  top: -650;
-  left: -525;
+  top: 160;
+  left: 40;
 }
 
 .soundSumo {
