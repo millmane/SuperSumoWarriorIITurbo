@@ -43,7 +43,7 @@ Super Sumo Warrior II Turbo is a Javascript game where you control a massive Sum
 
 ### Custom Artwork
 ### [Live Link](http://millmane.github.io/SuperSumoWarriorIITurbo/)
-* Art designed and created by [Robert Kornstein](www.rkanimation.com)
+* Art designed and created by [Robert Kornstein](http://www.rkanimation.com)
 
 * Sumo Warrior - ![sumo_regular]
 * Angry Sumo - ![sumo_mad]
