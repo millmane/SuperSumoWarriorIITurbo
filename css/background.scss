@@ -5,11 +5,12 @@
 //   left: 300
 // }
 //
-// #game-canvas {
-//   position: absolute;
-//   top: 300;
-//   left: 300
-// }
+#game-canvas {
+  overflow: hidden;
+  // position: absolute;
+  // top: 300;
+  // left: 300
+}
 
 .soundStart {
   display: block;
