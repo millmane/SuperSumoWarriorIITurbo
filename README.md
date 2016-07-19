@@ -4,6 +4,8 @@
 
 Super Sumo Warrior II Turbo is a Javascript game where you control a massive Sumo.  You must hold your ground as an onslaught of angry Sumo try to defeat you.
 
+![game]
+
 ### How to Play
 * Tap W-A-S-D to move the Sumo Warrior.
 * Stay within the ring as long as you can while angry Sumos try to push you out
@@ -62,3 +64,4 @@ Super Sumo Warrior II Turbo is a Javascript game where you control a massive Sum
 [elastic_collision]: ./images/elastic_collision.png
 [sumo_regular]: ./images/sumo_regular.png
 [sumo_mad]: ./images/sumo_mad.png
+[game]: ./images/game.png
